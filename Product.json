@@ -1,0 +1,19 @@
+{
+        "id": 2,
+        "title": "cargo and parachute",
+        "price": 22.3,
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "men's clothing",
+        "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/7523/623/800/7523623800_1_3_1.jpg?t=1662723670215",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        },
+        "Name": "Hony",
+        "Color1": "Black",
+        "Color2": "Red",
+        "Color3": "Blue",
+        "Color4": "Fuji",
+        "Color5": "Red",
+        "Color6": "local"
+    }
